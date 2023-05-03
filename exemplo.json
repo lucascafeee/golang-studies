@@ -1,0 +1,10 @@
+{
+  "nome": "Lucas",
+  "idade": 30,
+  "atributos": {
+    "altura": 1.75,
+    "peso": 70,
+    "corDosOlhos": "castanho",
+    "corDoCabelo": "preto"
+  }
+}
