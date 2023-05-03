@@ -1,6 +1,6 @@
 package main
 
-// Esse arquivo esta chamando o arquivo view.html. No caso, fiz uma rota para que chame a pagina html e exiba na rota respectivamente.
+// Esse arquivo esta chamando o arquivo view.html. No caso, fiz uma rota para que chama a pagina html e exiba na rota respectivamente.
 
 import (
 	"fmt"
