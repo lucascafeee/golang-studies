@@ -1,7 +1,7 @@
 //Em Go, os testes são realizados através de arquivos com o sufixo _test.go. O pacote de teste deve ter o mesmo nome do pacote que está sendo testado, mas com o sufixo _test.
 //Os testes são escritos em funções com o prefixo Test, seguido do nome da função que está sendo testada. Essas funções recebem um único argumento do tipo *testing.T, que é usado para reportar falhas nos testes.
 
-package estudos
+package main
 
 import (
 	"github.com/stretchr/testify/assert"
